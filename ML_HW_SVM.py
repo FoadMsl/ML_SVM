@@ -1,6 +1,6 @@
 #=================================================
-#   ML_HW4_FoadMoslem_401129902
-#   Foad Moslem - PhD Student - Aerodynamics
+#   ML_HW_SVM
+#   Foad Moslem (foad.moslem@gmail.com) - Researcher | Aerodynamics
 #   Using Python 3.9.16 & Spyder IDE
 #=================================================
 
